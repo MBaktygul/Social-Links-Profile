@@ -226,3 +226,11 @@ h2 {
 	font-weight: var(--fw-regular);
 	color: var(--clr-grey-700);
 }
+
+.attribution a {
+	text-decoration: underline;
+}
+
+.attribution a:hover {
+	color: var(--clr-green);
+}
